@@ -1,0 +1,177 @@
+/* .temperature {
+  font-size: 3em;
+  font-weight: bold;
+  color: #ff6347;
+}
+
+.weather-description {
+  font-size: 1.5em;
+  color: #008080;
+}
+
+
+ body {
+  background-color: wheat;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  display: block;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+form {
+  margin-top: 20px;
+  text
+}
+
+label {
+  font-weight: bold;
+}
+
+input[type="text"] {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #0077cc;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+h1, p {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+h1 {
+  font-weight: bold;
+}
+ */
+/*  
+ body {
+  background-color: black;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(31, 210, 255); */
+
+    body {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
+      /* background-color: rgb(31, 210, 255); */
+      background: url('17017788.jpg');
+      background-size: cover;
+   
+    }
+    
+form {
+  
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 0 0 10px white;
+}
+
+label {
+  margin-bottom: 100px;
+  text-align: left;
+  align-items: center;
+  top: 60%;
+  left: 60%;
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  border: #4CAF50;
+  border-radius: 50px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  margin-right: 5px;
+}
+
+
+button {
+  height: 50px;
+  width: 50px;
+  font-size: 30px;
+  border-radius: 10px;
+  margin-left: 10px;
+  border: none;
+  background-color: rgb(255, 255, 255);
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 0px;
+  font-weight: 600;
+}
+
+button:hover {
+  transform: rotate(720deg);
+  transition: all 1s;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+
+
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 100px;
+  top: 100%;
+  left: 100%;
+}
+
+#weather-info {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 50px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  text-align: center;
+  font-size: 150px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.592);
+  font-family: 'Dosis', sans-serif;
+  
+}
+
+.container {
+  margin-top: 10px;
+  display: flexbox;
+  flex-direction: column;
+
+  align-items: center;
+  background: rgba(0, 0, 0, 0.546);
+  
+  padding: 10px;
+  border-radius: 20px;
+  
+} 
